@@ -1,7 +1,7 @@
 {
   "name": "pwa-vue-app",
   "engines": {
-    "node": "^10.8.0"
+    "node": "10.8.0"
   },
   "version": "1.0.0",
   "description": "first pwa application with vue.js",
