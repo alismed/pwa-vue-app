@@ -10,7 +10,8 @@
     "build": "webpack -p --mode production",
     "build:dev": "webpack -d --mode development",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --progress"
+    "dev": "webpack-dev-server --progress",
+    "start": "webpack-dev-server --progress"
   },
   "author": "Alison Souza",
   "license": "ISC",
